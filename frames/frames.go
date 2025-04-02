@@ -65,5 +65,5 @@ var FrameMap = map[string]FrameType{
 	"india":           India,
 	"brittany":        Brittany,
 	"hack":            Hack,
-	"fn":              Fn,
+	"fn":              Fn
 }
